@@ -7,7 +7,7 @@ end #end roll_call_dwarves
 def summon_captain_planet(planets)
   planets.each do |element|
   element << "!"
-  element.capitalize
+  element.capitalize!
   end #end do 
 end #end summon_captain_planet() 
 
