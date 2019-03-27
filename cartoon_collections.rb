@@ -4,7 +4,7 @@ def roll_call_dwarves(dwarves)
   puts datx
 end #end roll_call_dwarves
 
-def summon_captain_planet# code an argument here
+def summon_captain_planet(planets)
   
   
 end #end summon_captain_planet() 
