@@ -5,8 +5,9 @@ def roll_call_dwarves(dwarves)
 end #end roll_call_dwarves
 
 def summon_captain_planet(planets)
-  
-  
+  planets.each do |element|
+  element << "!"
+  end #end do 
 end #end summon_captain_planet() 
 
 def long_planeteer_calls# code an argument here
